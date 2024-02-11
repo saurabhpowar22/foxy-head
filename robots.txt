@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://saurabhpowar22.github.io/foxy-head/sitemap.xml
