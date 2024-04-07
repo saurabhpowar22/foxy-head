@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Foxy Head</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:08:11 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 23:03:30 +0530</lastBuildDate>
     <atom:link href="https://saurabhpowar22.github.io/foxy-head/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFD</title>
+      <link>https://saurabhpowar22.github.io/foxy-head/categories/cfd/</link>
+      <pubDate>Fri, 29 Mar 2024 23:03:30 +0530</pubDate>
+      <guid>https://saurabhpowar22.github.io/foxy-head/categories/cfd/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Fluid Mechanics</title>
       <link>https://saurabhpowar22.github.io/foxy-head/categories/fluid-mechanics/</link>
